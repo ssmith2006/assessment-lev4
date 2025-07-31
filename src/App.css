@@ -40,3 +40,23 @@
 .read-the-docs {
   color: #888;
 }
+
+.section-learning{
+  background-color: burlywood;
+  padding: 32px;  
+}
+
+.section-concepts{
+  background-color: cadetblue;
+  padding: 32px;
+}
+
+.section-fun{
+  background-color: darkseagreen;
+  padding: 32px;
+}
+
+.font-header{
+  font-size: 108px;
+  color: darkslateblue;
+}
